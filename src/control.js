@@ -26,7 +26,7 @@ console.log(url);
         console.log(res.data);
         searchGetPage = res.data;
         console.log(iconv.decode(searchGetPage,'gb2312'));
-        fs.writeFile('search.html',searchGetPage,{encoding:'gb2312'},function(){
+        fs.writeFile('search.html',searchGetPage,function(){
             console.log('saveSucces');
         })
     })
