@@ -7,6 +7,6 @@ http.get(url,function(res){
     });
     res.on('end',function(){ 
         console.log(bufferHelper);
-        // console.log(iconv.decode(bufferHelper.toBuffer(),'GBK'));
+        console.log(iconv.decode(bufferHelper.toBuffer(),'GBK'));
     });
 })

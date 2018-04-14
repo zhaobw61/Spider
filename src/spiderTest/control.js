@@ -7,6 +7,8 @@ var BufferHelper = require('bufferhelper');
 
 var iconv = require('iconv-lite'); 
 
+var Icon = require('buffer');
+
 // 新闻名称
 var newName = '杭州保姆纵火案';
 // 收索范围：all新闻全文 title新闻标题
@@ -23,9 +25,7 @@ console.log(url);
     var searchGet = axios.get(url);
     var searchGetPage;
     searchGet.then(function(res){
-        // searchGetPage = res.data;
-        
-        searchGetPage = iconv.decode(res.data,'gb2312'); 
+        searchGetPage = res.data;
         fs.writeFile('search.html',searchGetPage,function(){
             console.log('saveSucces');
         })
