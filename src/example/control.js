@@ -23,9 +23,9 @@ console.log(url);
     var searchGet = axios.get(url);
     var searchGetPage;
     searchGet.then(function(res){
-        // searchGetPage = res.data;
-        
-        searchGetPage = iconv.decode(res.data,'gb2312'); 
+        console.log(res.data);
+        searchGetPage = res.data;
+        console.log(iconv.decode(searchGetPage,'gb2312'));
         fs.writeFile('search.html',searchGetPage,function(){
             console.log('saveSucces');
         })
