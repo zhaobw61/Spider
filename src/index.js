@@ -72,55 +72,55 @@ var urlofInout = 'http://search.sina.com.cn/?q=杭州保姆纵火案&c=news&from
     //     });
     // });
     // 读取http请求的新闻详细页面 为拼接出 请求评论的url
-    var httpNewDetial = readFile('/saveSearch/httpNewDetial.html');
-    var $ = cheerio.load(httpNewDetial,{decodeEntities: false});
-    var metaArr = $('meta[name="sudameta"]');
-    var aR = [];
-    for(var i=0;i<metaArr.length;i++){
-        var aK = $(metaArr[i]).attr("content");
-        if (aK) {
-            if (aK.indexOf(";") != -1) {
-                var D = aK.split(";");
-                for (var aH = 0; aH < D.length; aH++) {
-                    var aP = aw(D[aH]);
-                    if (!aP) {
-                        continue
-                    }
-                    aR.push(aP)
-                }
-            } else {
-                aR.push(aK)
-            }
-        }
-    }
-    function aw(aH) {
-        if (typeof aH !== "string") {
-            throw "trim need a string as parameter"
-        }
-        var e = aH.length;
-        var D = 0;
-        var i = /(\u3000|\s|\t|\u00A0)/;
-        while (D < e) {
-            if (!i.test(aH.charAt(D))) {
-                break
-            }
-            D += 1
-        }
-        while (e > D) {
-            if (!i.test(aH.charAt(e - 1))) {
-                break
-            }
-            e -= 1
-        }
-        return aH.slice(D, e)
-    }
-    // console.log(aR);
-    var tempObj = {};
-    for(var i=0;i<aR.length;i++){
-        var tempArr = aR[i].split(":");
-        tempObj[tempArr[0]] = tempArr[1];
-    }
-    console.log(tempObj);
+    // var httpNewDetial = readFile('/saveSearch/httpNewDetial.html');
+    // var $ = cheerio.load(httpNewDetial,{decodeEntities: false});
+    // var metaArr = $('meta[name="sudameta"]');
+    // var aR = [];
+    // for(var i=0;i<metaArr.length;i++){
+    //     var aK = $(metaArr[i]).attr("content");
+    //     if (aK) {
+    //         if (aK.indexOf(";") != -1) {
+    //             var D = aK.split(";");
+    //             for (var aH = 0; aH < D.length; aH++) {
+    //                 var aP = aw(D[aH]);
+    //                 if (!aP) {
+    //                     continue
+    //                 }
+    //                 aR.push(aP)
+    //             }
+    //         } else {
+    //             aR.push(aK)
+    //         }
+    //     }
+    // }
+    // function aw(aH) {
+    //     if (typeof aH !== "string") {
+    //         throw "trim need a string as parameter"
+    //     }
+    //     var e = aH.length;
+    //     var D = 0;
+    //     var i = /(\u3000|\s|\t|\u00A0)/;
+    //     while (D < e) {
+    //         if (!i.test(aH.charAt(D))) {
+    //             break
+    //         }
+    //         D += 1
+    //     }
+    //     while (e > D) {
+    //         if (!i.test(aH.charAt(e - 1))) {
+    //             break
+    //         }
+    //         e -= 1
+    //     }
+    //     return aH.slice(D, e)
+    // }
+    // // console.log(aR);
+    // var tempObj = {};
+    // for(var i=0;i<aR.length;i++){
+    //     var tempArr = aR[i].split(":");
+    //     tempObj[tempArr[0]] = tempArr[1];
+    // }
+    // console.log(tempObj);
     // var commentsArrUrl = 'http://comment5.news.sina.com.cn/page/info?version=1&format=js&channel='+tempObj['comment_channel']+'&newsid='+tempObj['comment_id']+'&group=&compress=0&ie=gbk&oe=gbk&page=1&page_size=20';
     // console.log(commentsArrUrl);
 
@@ -129,13 +129,15 @@ var urlofInout = 'http://search.sina.com.cn/?q=杭州保姆纵火案&c=news&from
         var html = "";
         var bufferHelper = new BufferHelper();
         res.on('data', function (chunk) {
-            bufferHelper.concat(chunk);
+            // bufferHelper.concat(chunk);
+            html += chunk;
         });
         res.on('end',function(){
             // html=iconv.decode(bufferHelper.toBuffer(),'unicode');
             // saveData('/saveSearch/commentsArr2.md',html);
+            console.log(typeof(html));
             eval(html);
-            console.log(data);
+            // console.log(data);
             saveData('/saveSearch/commentsArr1.md',data);
         });
     });
