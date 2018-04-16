@@ -1,11 +1,6 @@
-var BufferHelper = require('bufferhelper');
-
-var http = require('http');
-var iconv = require('iconv-lite'); 
-
-
-
+var readFile = require('./readFile');
 var puppeteerGet = require('./puppeteerGet');
+var httpGet = require('./httpGet');
 var url = require("url");
 
 // 新闻名称
@@ -23,16 +18,20 @@ console.log(url);
 
 (async()=>{
     // 请求收索框的页面的数据
-    var puppeteerGetPro = new Promise(function(resolve,reject){
-        puppeteerGet(url,'/dataBase/inputSearchPage/inputSearch.html',function(){
-            console.log('save inputPage data success!');
-            resolve();
-        });
+    var saveSearchNews = new Promise(function(resolve,reject){
+        // puppeteerGet(url,'/dataBase/inputSearchPage/inputSearch.html',function(){
+        //     console.log('save inputPage data success!');
+        //     resolve();
+        // });
+        resolve();
     });
     // 请求新闻详情页
-    puppeteerGetPro.then(function(){
-        var tempPro = new Promise(function(){
-            
+    var saveNewsDetial = saveSearchNews.then(function(){
+        var tempPro = new Promise(function(resolve,reject){
+            var tempArr =JSON.parse(readFile('/dataBase/inputSearchPage/inputSearchData.js'));
+            for(var i=0;i<tempArr.length;i++){
+                httpGet(tempArr[i].newUrl,'/dataBase/newsDetialPage/'+i+'.html');
+            }
         })
         return tempPro;
     })
