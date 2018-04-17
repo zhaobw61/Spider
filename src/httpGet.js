@@ -3,8 +3,7 @@ var iconv = require('iconv-lite');
 var BufferHelper = require('bufferhelper');
 var saveData = require('./saveData');
 
-function httpGet(url,filename){
-    console.log(url);
+function httpGet(url,filename,callback){
     http.get(url,function(res){
         var bufferHelper = new BufferHelper();
         res.on('data', function (chunk) {
@@ -13,8 +12,7 @@ function httpGet(url,filename){
         res.on('end',function(){
             var decodeHtml = iconv.decode(bufferHelper.toBuffer(),'utf-8'); 
             console.log("getEnd");
-            // 转码后的HTML
-            saveData(filename,decodeHtml);
+            callback(decodeHtml);
         });
     });
 }
