@@ -15,7 +15,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -45,7 +45,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -81,6 +82,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -117,6 +119,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -153,7 +156,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -190,7 +192,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -227,7 +228,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -264,7 +264,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -301,7 +300,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -338,7 +336,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -375,7 +372,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -412,7 +408,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -486,7 +481,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -523,7 +517,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -597,7 +590,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -634,7 +626,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -708,7 +699,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -745,6 +735,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -753,7 +744,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -783,7 +774,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -819,6 +811,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -855,6 +848,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -891,7 +885,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -928,7 +921,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -965,7 +957,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1002,7 +993,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1039,7 +1029,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1076,7 +1065,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1113,7 +1101,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1150,7 +1137,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1224,7 +1210,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1261,7 +1246,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1335,7 +1319,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -1344,7 +1327,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -1374,7 +1357,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -1410,6 +1394,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -1446,6 +1431,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -1482,7 +1468,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1519,7 +1504,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1556,7 +1540,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1593,7 +1576,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1630,7 +1612,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1667,7 +1648,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1704,7 +1684,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1741,7 +1720,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1815,7 +1793,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1852,7 +1829,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1926,7 +1902,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -1963,7 +1938,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2009,7 +1983,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -2039,7 +2013,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -2075,6 +2050,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -2111,6 +2087,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -2147,7 +2124,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2184,7 +2160,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2221,7 +2196,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2258,7 +2232,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2295,7 +2268,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2332,7 +2304,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2369,7 +2340,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2406,7 +2376,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2414,11 +2383,12 @@
                     "parent_mid": "0",
                     "news_mid_source": "0",
                     "rank": "0",
-                    "mid": "5AA9FB20-DF407780-55F31148-91A-84D",
+                    "channel_source": "",
                     "vote": "0",
                     "uid": "1441993032",
+                    "length": "32",
                     "area": "江苏苏州",
-                    "channel_source": "",
+                    "mid": "5AA9FB20-DF407780-55F31148-91A-84D",
                     "content": "好吧，她是罪，她该死？？你们有关部门呢，永远伟大，光辉，正确？？",
                     "nick": "海洋之星GJH",
                     "status_uid": "0",
@@ -2433,14 +2403,13 @@
                     "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "news_mid": "0",
                     "newsid": "comos-fxpwyhv6490183",
-                    "ip": "223.64.119.128",
                     "parent_uid": "3291951977",
                     "thread_mid": "0",
                     "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "level": "11",
                     "against": "0",
                     "usertype": "",
-                    "length": "32",
+                    "ip": "223.64.119.128",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 12:48:33",
                     "login_type": "0",
@@ -2480,7 +2449,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2517,7 +2485,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2525,11 +2492,12 @@
                     "parent_mid": "0",
                     "news_mid_source": "0",
                     "rank": "0",
-                    "mid": "5AAA5461-6FC9E03F-C4373369-91A-9AD",
+                    "channel_source": "",
                     "vote": "0",
                     "uid": "3291951977",
+                    "length": "13",
                     "area": "北京",
-                    "channel_source": "",
+                    "mid": "5AAA5461-6FC9E03F-C4373369-91A-9AD",
                     "content": "消防是当今世界最危险的工作",
                     "nick": "芦苇根6688",
                     "status_uid": "0",
@@ -2544,14 +2512,13 @@
                     "parent_profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "news_mid": "0",
                     "newsid": "comos-fxpwyhv6490183",
-                    "ip": "111.201.224.63",
                     "parent_uid": "1441993032",
                     "thread_mid": "0",
                     "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "level": "14",
                     "against": "0",
                     "usertype": "",
-                    "length": "13",
+                    "ip": "111.201.224.63",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:09:21",
                     "login_type": "0",
@@ -2591,7 +2558,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2628,7 +2594,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2702,7 +2667,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2739,6 +2703,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2775,7 +2740,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2812,6 +2776,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2885,7 +2850,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -2931,7 +2895,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -2961,7 +2925,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -2997,6 +2962,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -3033,6 +2999,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -3069,7 +3036,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3106,7 +3072,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3143,7 +3108,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3180,7 +3144,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3217,7 +3180,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3254,7 +3216,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3291,7 +3252,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3328,7 +3288,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3402,7 +3361,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3439,7 +3397,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3513,7 +3470,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3550,7 +3506,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3624,7 +3579,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3661,6 +3615,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3697,7 +3652,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3734,6 +3688,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3770,7 +3725,6 @@
                     "length": "67",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 08:38:40",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3807,7 +3761,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:05",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -3816,7 +3769,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -3846,7 +3799,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -3882,6 +3836,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -3918,6 +3873,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -3954,7 +3910,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -3991,7 +3946,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4028,7 +3982,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4065,7 +4018,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4102,7 +4054,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4139,7 +4090,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4176,7 +4126,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4213,7 +4162,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4287,7 +4235,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4324,7 +4271,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4398,7 +4344,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4435,7 +4380,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4509,7 +4453,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4546,6 +4489,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4582,7 +4526,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4619,6 +4562,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4692,7 +4636,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -4701,7 +4644,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -4731,7 +4674,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -4767,6 +4711,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -4803,6 +4748,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -4839,7 +4785,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4876,7 +4821,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4913,7 +4857,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4950,7 +4893,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -4987,7 +4929,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5024,7 +4965,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5061,7 +5001,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5098,7 +5037,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5172,7 +5110,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5209,7 +5146,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5283,7 +5219,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5320,7 +5255,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5394,7 +5328,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5431,6 +5364,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5467,7 +5401,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5504,6 +5437,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5577,7 +5511,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5614,6 +5547,7 @@
                     "length": "167",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 20:47:10",
+                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -5622,7 +5556,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -5652,7 +5586,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -5688,6 +5623,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -5724,6 +5660,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -5760,7 +5697,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5797,7 +5733,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5834,7 +5769,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5871,7 +5805,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5908,7 +5841,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5945,7 +5877,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -5982,7 +5913,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6019,7 +5949,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6093,7 +6022,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6130,7 +6058,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6204,7 +6131,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6241,7 +6167,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6315,7 +6240,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6352,6 +6276,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6388,7 +6313,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6425,6 +6349,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6461,7 +6386,6 @@
                     "length": "67",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 08:38:40",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -6470,7 +6394,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -6500,7 +6424,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -6536,6 +6461,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -6572,6 +6498,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -6608,7 +6535,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6645,7 +6571,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6682,7 +6607,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6719,7 +6643,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6756,7 +6679,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6793,7 +6715,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6830,7 +6751,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6867,7 +6787,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6941,7 +6860,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -6978,7 +6896,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7052,7 +6969,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7089,7 +7005,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7163,7 +7078,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7200,6 +7114,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7236,7 +7151,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -7245,7 +7159,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -7275,7 +7189,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -7311,6 +7226,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -7347,6 +7263,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -7383,7 +7300,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7420,7 +7336,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7457,7 +7372,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7494,7 +7408,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7531,7 +7444,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7568,7 +7480,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7605,7 +7516,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7642,7 +7552,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7716,7 +7625,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7753,7 +7661,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7827,7 +7734,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7864,7 +7770,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7938,7 +7843,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -7975,6 +7879,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8011,7 +7916,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8048,6 +7952,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8093,7 +7998,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -8123,7 +8028,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -8159,6 +8065,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -8195,6 +8102,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -8231,7 +8139,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8268,7 +8175,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8305,7 +8211,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8342,7 +8247,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8379,7 +8283,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8416,7 +8319,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8453,7 +8355,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8490,7 +8391,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8564,7 +8464,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8601,7 +8500,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8675,7 +8573,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8712,7 +8609,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8786,7 +8682,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8823,6 +8718,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8859,7 +8755,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8896,6 +8791,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -8969,7 +8865,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -8978,7 +8873,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -9008,7 +8903,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -9044,6 +8940,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -9080,6 +8977,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -9116,7 +9014,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9153,7 +9050,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9190,7 +9086,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9227,7 +9122,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9264,7 +9158,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9301,7 +9194,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9338,7 +9230,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9375,7 +9266,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9449,7 +9339,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9486,7 +9375,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9560,7 +9448,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9597,7 +9484,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9671,7 +9557,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9708,6 +9593,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9744,7 +9630,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9781,6 +9666,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9817,7 +9703,6 @@
                     "length": "67",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 08:38:40",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9854,7 +9739,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:05",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -9900,7 +9784,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -9930,7 +9814,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -9966,6 +9851,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -10002,6 +9888,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -10038,7 +9925,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10075,7 +9961,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10112,7 +9997,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10149,7 +10033,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10186,7 +10069,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10223,7 +10105,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10260,7 +10141,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10297,7 +10177,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10371,7 +10250,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10408,7 +10286,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10482,7 +10359,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10519,7 +10395,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10593,7 +10468,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -10602,7 +10476,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -10632,7 +10506,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -10668,6 +10543,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -10704,6 +10580,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -10740,7 +10617,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10777,7 +10653,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10814,7 +10689,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10851,7 +10725,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10888,7 +10761,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10925,7 +10797,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10962,7 +10833,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -10999,7 +10869,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11073,7 +10942,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11110,7 +10978,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11184,7 +11051,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11221,7 +11087,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11295,7 +11160,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11332,6 +11196,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11368,7 +11233,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11405,6 +11269,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11441,7 +11306,6 @@
                     "length": "67",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 08:38:40",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11478,7 +11342,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:05",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -11487,7 +11350,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -11517,7 +11380,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -11553,6 +11417,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -11589,6 +11454,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -11625,7 +11491,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11662,7 +11527,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11699,7 +11563,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11736,7 +11599,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11773,7 +11635,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11810,7 +11671,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11847,7 +11707,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11884,7 +11743,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11958,7 +11816,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -11995,7 +11852,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12069,7 +11925,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12106,7 +11961,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -12115,7 +11969,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -12145,7 +11999,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -12181,6 +12036,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -12217,6 +12073,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -12253,7 +12110,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12290,7 +12146,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12327,7 +12182,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12364,7 +12218,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12401,7 +12254,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12438,7 +12290,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12475,7 +12326,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12512,7 +12362,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12586,7 +12435,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12623,7 +12471,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12697,7 +12544,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12734,7 +12580,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12808,7 +12653,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12845,6 +12689,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12881,7 +12726,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -12918,6 +12762,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -12926,7 +12771,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -12956,7 +12801,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -12992,6 +12838,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -13028,6 +12875,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -13064,7 +12912,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13101,7 +12948,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13138,7 +12984,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13175,7 +13020,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13212,7 +13056,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13249,7 +13092,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13286,7 +13128,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13323,7 +13164,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13397,7 +13237,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13434,7 +13273,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13508,7 +13346,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13545,7 +13382,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13619,7 +13455,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13656,6 +13491,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13692,7 +13528,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13729,6 +13564,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13802,7 +13638,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -13811,7 +13646,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -13841,7 +13676,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -13877,6 +13713,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -13913,6 +13750,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -13949,7 +13787,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -13986,7 +13823,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14023,7 +13859,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14060,7 +13895,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14097,7 +13931,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14134,7 +13967,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14171,7 +14003,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14208,7 +14039,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14282,7 +14112,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14319,7 +14148,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14393,7 +14221,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -14402,7 +14229,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -14432,7 +14259,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -14468,6 +14296,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -14504,6 +14333,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -14540,7 +14370,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14577,7 +14406,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14614,7 +14442,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14651,7 +14478,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14688,7 +14514,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14725,7 +14550,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14762,7 +14586,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14799,7 +14622,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14873,7 +14695,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14910,7 +14731,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -14984,7 +14804,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15021,7 +14840,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15095,7 +14913,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15132,6 +14949,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15168,7 +14986,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15205,6 +15022,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15278,7 +15096,6 @@
                     "length": "71",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-20 16:16:49",
-                    "login_type": "0",
                     "agree": "0"
                 }
             ],
@@ -15287,7 +15104,7 @@
                     "comment_imgs": "",
                     "parent_mid": "0",
                     "news_mid_source": "0",
-                    "rank": "1768",
+                    "rank": "1818",
                     "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                     "vote": "0",
                     "uid": "3267547867",
@@ -15317,7 +15134,8 @@
                     "length": "39",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:04:59",
-                    "agree": "53"
+                    "login_type": "0",
+                    "agree": "54"
                 },
                 {
                     "comment_imgs": "",
@@ -15353,6 +15171,7 @@
                     "length": "47",
                     "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:15:32",
+                    "login_type": "0",
                     "agree": "21"
                 },
                 {
@@ -15389,6 +15208,7 @@
                     "length": "53",
                     "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-08 09:25:38",
+                    "login_type": "0",
                     "agree": "12"
                 },
                 {
@@ -15425,7 +15245,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-12 16:35:03",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15462,7 +15281,6 @@
                     "length": "61",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 12:36:06",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15499,7 +15317,6 @@
                     "length": "62",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 21:50:34",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15536,7 +15353,6 @@
                     "length": "62",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-13 22:25:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15573,7 +15389,6 @@
                     "length": "51",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-14 18:26:22",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15610,7 +15425,6 @@
                     "length": "124",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 00:12:26",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15647,7 +15461,6 @@
                     "length": "142",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 05:18:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15684,7 +15497,6 @@
                     "length": "96",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 11:49:09",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15758,7 +15570,6 @@
                     "length": "78",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 13:08:46",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15795,7 +15606,6 @@
                     "length": "66",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 16:37:29",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15869,7 +15679,6 @@
                     "length": "54",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 19:43:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15906,7 +15715,6 @@
                     "length": "45",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-15 20:19:53",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -15980,7 +15788,6 @@
                     "length": "112",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 08:53:11",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -16017,6 +15824,7 @@
                     "length": "218",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 09:21:47",
+                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -16053,7 +15861,6 @@
                     "length": "135",
                     "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-16 20:10:42",
-                    "login_type": "0",
                     "agree": "0"
                 },
                 {
@@ -16090,6 +15897,7 @@
                     "length": "144",
                     "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                     "time": "2018-03-18 05:57:22",
+                    "login_type": "0",
                     "agree": "0"
                 }
             ]
@@ -16103,11 +15911,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB125E1-DF40714F-55F31148-91A-853",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1441993032",
+                "length": "26",
                 "area": "江苏苏州",
-                "channel_source": "",
+                "mid": "5AB125E1-DF40714F-55F31148-91A-853",
                 "content": "8：去你MD!回答上面的4个问题！和火大小没有关系！",
                 "nick": "海洋之星GJH",
                 "status_uid": "0",
@@ -16122,14 +15931,13 @@
                 "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "223.64.113.79",
                 "parent_uid": "3291951977",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "25",
                 "against": "0",
                 "usertype": "",
-                "length": "26",
+                "ip": "223.64.113.79",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 23:16:50",
                 "login_type": "0",
@@ -16140,11 +15948,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB1258E-DF40714F-55F31148-91A-86B",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1441993032",
+                "length": "24",
                 "area": "江苏苏州",
-                "channel_source": "",
+                "mid": "5AB1258E-DF40714F-55F31148-91A-86B",
                 "content": "去你MD!回答上面的4个问题！和火大小没有关系！",
                 "nick": "海洋之星GJH",
                 "status_uid": "0",
@@ -16159,14 +15968,13 @@
                 "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "223.64.113.79",
                 "parent_uid": "3291951977",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "25",
                 "against": "0",
                 "usertype": "",
-                "length": "24",
+                "ip": "223.64.113.79",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 23:15:27",
                 "login_type": "0",
@@ -16177,11 +15985,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB12391-DF40714F-55F31148-91A-847",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1441993032",
+                "length": "28",
                 "area": "江苏苏州",
-                "channel_source": "",
+                "mid": "5AB12391-DF40714F-55F31148-91A-847",
                 "content": "呵呵，人民当家做主？？真的吗？搞笑，你是小学没有学完吧！",
                 "nick": "海洋之星GJH",
                 "status_uid": "0",
@@ -16196,14 +16005,13 @@
                 "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "223.64.113.79",
                 "parent_uid": "3291951977",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "25",
                 "against": "0",
                 "usertype": "",
-                "length": "28",
+                "ip": "223.64.113.79",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 23:06:58",
                 "login_type": "0",
@@ -16214,11 +16022,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB10924-6FC9E79B-C4373369-91A-8F7",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "3291951977",
+                "length": "32",
                 "area": "北京",
-                "channel_source": "",
+                "mid": "5AB10924-6FC9E79B-C4373369-91A-8F7",
                 "content": "没偷换概念，偷换啥了？多规范也不能那么大火进吧，况受罪犯狡诈的骗",
                 "nick": "芦苇根6688",
                 "status_uid": "0",
@@ -16233,14 +16042,13 @@
                 "parent_profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "111.201.231.155",
                 "parent_uid": "1441993032",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "24",
                 "against": "0",
                 "usertype": "",
-                "length": "32",
+                "ip": "111.201.231.155",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 21:14:12",
                 "login_type": "0",
@@ -16251,11 +16059,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB10336-6FC9E79B-C4373369-91A-837",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "3291951977",
+                "length": "19",
                 "area": "北京",
-                "channel_source": "",
+                "mid": "5AB10336-6FC9E79B-C4373369-91A-837",
                 "content": "消防绝对不会像罪犯莫焕晶一样图财害命！",
                 "nick": "芦苇根6688",
                 "status_uid": "0",
@@ -16270,14 +16079,13 @@
                 "parent_profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "111.201.231.155",
                 "parent_uid": "1441993032",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "24",
                 "against": "0",
                 "usertype": "",
-                "length": "19",
+                "ip": "111.201.231.155",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 20:48:54",
                 "login_type": "0",
@@ -16317,6 +16125,7 @@
                 "length": "167",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 20:47:10",
+                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16324,11 +16133,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AB0FC41-6FC9E79B-C4373369-91A-7DB",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "3291951977",
+                "length": "15",
                 "area": "北京",
-                "channel_source": "",
+                "mid": "5AB0FC41-6FC9E79B-C4373369-91A-7DB",
                 "content": "多规范那么大的火，你会怎么办？",
                 "nick": "芦苇根6688",
                 "status_uid": "0",
@@ -16343,14 +16153,13 @@
                 "parent_profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "111.201.231.155",
                 "parent_uid": "1441993032",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "24",
                 "against": "0",
                 "usertype": "",
-                "length": "15",
+                "ip": "111.201.231.155",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 20:19:14",
                 "login_type": "0",
@@ -16390,7 +16199,6 @@
                 "length": "80",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 20:16:39",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16464,7 +16272,6 @@
                 "length": "71",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 16:16:49",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16501,7 +16308,6 @@
                 "length": "71",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-20 16:16:05",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16538,7 +16344,6 @@
                 "length": "67",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-18 08:38:40",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16612,6 +16417,7 @@
                 "length": "144",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-18 05:57:22",
+                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16648,7 +16454,6 @@
                 "length": "135",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-16 20:10:42",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16685,6 +16490,7 @@
                 "length": "218",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-16 09:21:47",
+                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16721,7 +16527,6 @@
                 "length": "112",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-16 08:53:11",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16729,11 +16534,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "0",
-                "mid": "5AAAFD7E-DF40709E-55F31148-91A-86F",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1441993032",
+                "length": "22",
                 "area": "江苏苏州",
-                "channel_source": "",
+                "mid": "5AAAFD7E-DF40709E-55F31148-91A-86F",
                 "content": "哈哈，口号喊的好！！赏赐黄马褂一件！谢恩吧！",
                 "nick": "海洋之星GJH",
                 "status_uid": "0",
@@ -16748,14 +16554,13 @@
                 "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "223.64.112.158",
                 "parent_uid": "3291951977",
                 "thread_mid": "0",
                 "thread": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "level": "17",
                 "against": "0",
                 "usertype": "",
-                "length": "22",
+                "ip": "223.64.112.158",
                 "profile_img": "http://tvax1.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-16 07:10:54",
                 "login_type": "0",
@@ -16795,7 +16600,6 @@
                 "length": "62",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-15 21:15:41",
-                "login_type": "0",
                 "agree": "0"
             },
             {
@@ -16832,7 +16636,6 @@
                 "length": "45",
                 "profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-15 20:19:53",
-                "login_type": "0",
                 "agree": "0"
             }
         ],
@@ -16862,12 +16665,13 @@
                 "comment_imgs": "",
                 "parent_mid": "0",
                 "news_mid_source": "0",
-                "rank": "1080",
-                "mid": "5AA081EA-78E6C98C-60A9E33F-91A-960",
+                "rank": "1130",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1621746495",
+                "length": "47",
                 "area": "广东",
-                "channel_source": "",
+                "mid": "5AA081EA-78E6C98C-60A9E33F-91A-960",
                 "content": "原告很精明，等保姆的案子结束了再来告消防局，估计物业也快了，到时候就怕牵出太多的人......",
                 "nick": "ozp1899",
                 "status_uid": "0",
@@ -16882,17 +16686,17 @@
                 "parent_profile_img": "",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "120.230.201.140",
                 "parent_uid": "0",
                 "thread_mid": "0",
                 "thread": "",
                 "level": "0",
                 "against": "0",
                 "usertype": "pc",
-                "length": "47",
+                "ip": "120.230.201.140",
                 "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-08 08:20:59",
-                "agree": "247"
+                "login_type": "0",
+                "agree": "248"
             },
             {
                 "comment_imgs": "",
@@ -16934,12 +16738,13 @@
                 "comment_imgs": "",
                 "parent_mid": "0",
                 "news_mid_source": "0",
-                "rank": "1768",
-                "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
+                "rank": "1818",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "3267547867",
+                "length": "39",
                 "area": "北京",
-                "channel_source": "",
+                "mid": "5AA08C3C-7CCAC9FE-C2C2D2DB-91A-8AF",
                 "content": "消防局整天喊着防火防火，你们怎么就不听呢？为什么不提前预防呢？现在还要告消防局",
                 "nick": "用户4hp15wljzr",
                 "status_uid": "0",
@@ -16954,28 +16759,29 @@
                 "parent_profile_img": "",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "124.202.201.254",
                 "parent_uid": "0",
                 "thread_mid": "0",
                 "thread": "",
                 "level": "0",
                 "against": "0",
                 "usertype": "pc",
-                "length": "39",
+                "ip": "124.202.201.254",
                 "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-08 09:04:59",
-                "agree": "53"
+                "login_type": "0",
+                "agree": "54"
             },
             {
                 "comment_imgs": "",
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "21",
-                "mid": "5AA08617-CA623825-61CF7F3D-91A-9E3",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1640988477",
+                "length": "26",
                 "area": "重庆",
-                "channel_source": "",
+                "mid": "5AA08617-CA623825-61CF7F3D-91A-9E3",
                 "content": "起诉消防，何来的不要脸？消防若胜诉，自然还肖防清白！",
                 "nick": "巴柳人家",
                 "status_uid": "0",
@@ -16990,16 +16796,16 @@
                 "parent_profile_img": "http://tvax2.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "202.98.56.37",
                 "parent_uid": "3036431725",
                 "thread_mid": "0",
                 "thread": "5AA05B9C-DCCA87FB-B4FC456D-91A-899",
                 "level": "1",
                 "against": "0",
                 "usertype": "pc",
-                "length": "26",
+                "ip": "202.98.56.37",
                 "profile_img": "http://tva2.sinaimg.cn/crop.409.153.1228.1228.50/61cf7f3djw1e794zpo2nej21kw16okjl.jpg",
                 "time": "2018-03-08 08:38:48",
+                "login_type": "0",
                 "agree": "21"
             },
             {
@@ -17007,11 +16813,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "412",
-                "mid": "5AA08934-1B2CC3A7-70C390D7-91A-7E0",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1891864791",
+                "length": "14",
                 "area": "广东东莞",
-                "channel_source": "",
+                "mid": "5AA08934-1B2CC3A7-70C390D7-91A-7E0",
                 "content": "能赢也只是次要责任[挖鼻屎]",
                 "nick": "JPresident",
                 "status_uid": "0",
@@ -17026,16 +16833,16 @@
                 "parent_profile_img": "",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "27.44.195.167",
                 "parent_uid": "0",
                 "thread_mid": "0",
                 "thread": "",
                 "level": "0",
                 "against": "0",
                 "usertype": "pc",
-                "length": "14",
+                "ip": "27.44.195.167",
                 "profile_img": "http://tva3.sinaimg.cn/crop.0.0.300.300.50/70c390d7jw8f82azjr76lj208c08vwf1.jpg",
                 "time": "2018-03-08 08:52:05",
+                "login_type": "0",
                 "agree": "20"
             },
             {
@@ -17072,6 +16879,7 @@
                 "length": "47",
                 "profile_img": "http://tvax3.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-08 09:15:32",
+                "login_type": "0",
                 "agree": "21"
             },
             {
@@ -17079,11 +16887,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "22",
-                "mid": "5AA08957-7AE3163E-3DDF9217-91A-80C",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "1038062103",
+                "length": "64",
                 "area": "浙江金华",
-                "channel_source": "",
+                "mid": "5AA08957-7AE3163E-3DDF9217-91A-80C",
                 "content": "是死者报警火灾！是死者报警火灾！是死者报警火灾！而消防员进入房间后报告没有人员！消防局严重渎职！！！灭火队员不知道房间有人！！！",
                 "nick": "无果花王",
                 "status_uid": "0",
@@ -17098,16 +16907,16 @@
                 "parent_profile_img": "",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "122.227.22.62",
                 "parent_uid": "0",
                 "thread_mid": "0",
                 "thread": "",
                 "level": "0",
                 "against": "0",
                 "usertype": "pc",
-                "length": "64",
+                "ip": "122.227.22.62",
                 "profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "time": "2018-03-08 08:52:39",
+                "login_type": "0",
                 "agree": "22"
             },
             {
@@ -17115,11 +16924,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "19",
-                "mid": "5AA08856-753B2788-9DE63755-91A-8B5",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "2649110357",
+                "length": "65",
                 "area": "重庆",
-                "channel_source": "",
+                "mid": "5AA08856-753B2788-9DE63755-91A-8B5",
                 "content": "不明真相的群众一定要明白，王子犯法与庶民同罪，出生入死的消防员是可敬的，但是不代表消防局就没有违法犯罪的人和事。林兄，你是好样的。",
                 "nick": "蝶蝶梦我",
                 "status_uid": "0",
@@ -17134,16 +16944,16 @@
                 "parent_profile_img": "",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "117.59.39.136",
                 "parent_uid": "0",
                 "thread_mid": "0",
                 "thread": "",
                 "level": "0",
                 "against": "0",
                 "usertype": "pc",
-                "length": "65",
+                "ip": "117.59.39.136",
                 "profile_img": "http://tva4.sinaimg.cn/crop.0.0.459.459.50/9de63755jw8ew565qe6qbj20cs0cs0sx.jpg",
                 "time": "2018-03-08 08:48:23",
+                "login_type": "0",
                 "agree": "19"
             },
             {
@@ -17151,11 +16961,12 @@
                 "parent_mid": "0",
                 "news_mid_source": "0",
                 "rank": "18",
-                "mid": "5AA08CE4-B49BA23E-777A3FE3-91A-77C",
+                "channel_source": "",
                 "vote": "0",
                 "uid": "2004500451",
+                "length": "16",
                 "area": "上海",
-                "channel_source": "",
+                "mid": "5AA08CE4-B49BA23E-777A3FE3-91A-77C",
                 "content": "要律师干嘛得？还聪明  常识好不",
                 "nick": "美丽东尚",
                 "status_uid": "0",
@@ -17170,16 +16981,16 @@
                 "parent_profile_img": "http://tvax4.sinaimg.cn/default/images/default_avatar_male_50.gif",
                 "news_mid": "0",
                 "newsid": "comos-fxpwyhv6490183",
-                "ip": "180.155.162.62",
                 "parent_uid": "1621746495",
                 "thread_mid": "0",
                 "thread": "5AA081EA-78E6C98C-60A9E33F-91A-960",
                 "level": "1",
                 "against": "0",
                 "usertype": "palmnews",
-                "length": "16",
+                "ip": "180.155.162.62",
                 "profile_img": "http://tva1.sinaimg.cn/crop.21.0.1082.1082.50/777a3fe3jw8f4lx9mo9prj20v90u20ur.jpg",
                 "time": "2018-03-08 09:07:48",
+                "login_type": "0",
                 "agree": "18"
             },
             {

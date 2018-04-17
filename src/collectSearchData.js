@@ -1,7 +1,7 @@
 var cheerio = require('cheerio');
 var saveData = require('./saveData');
 var readFile = require('./readFile');
-function collectSearchData(readFileName,saveFileName){
+function collectSearchData(readFileName){
     var searchRes = readFile(readFileName);
     // 请求搜索页面的数据
     var $ = cheerio.load(searchRes,{decodeEntities: false});
@@ -15,6 +15,7 @@ function collectSearchData(readFileName,saveFileName){
         tempObj.content = $(newList[i]).find('.content').text();
         tempArr.push(tempObj);
     }
-    saveData(saveFileName,tempArr);
+    return tempArr;
+    // saveData(saveFileName,tempArr);
 }
 module.exports = collectSearchData;
