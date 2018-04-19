@@ -8,8 +8,6 @@ function puppeteerGet(url,fileName,callBack){
         await page.goto(url);
         var data = await page.evaluate(()=>document.body.innerHTML);
         await browser.close();
-        // console.log('popo');
-        // console.log(fileName,data);
         if(callBack){
             callBack(data);
         }

@@ -16,6 +16,5 @@ function collectSearchData(readFileName){
         tempArr.push(tempObj);
     }
     return tempArr;
-    // saveData(saveFileName,tempArr);
 }
 module.exports = collectSearchData;
