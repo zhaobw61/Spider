@@ -3,7 +3,7 @@ var iconv = require('iconv-lite');
 var BufferHelper = require('bufferhelper');
 var saveData = require('./saveData');
 
-function httpGet(url,filename,callback){
+function httpGet(url,callback){
     http.get(url,function(res){
         var bufferHelper = new BufferHelper();
         res.on('data', function (chunk) {
@@ -11,7 +11,6 @@ function httpGet(url,filename,callback){
         });
         res.on('end',function(){
             var decodeHtml = iconv.decode(bufferHelper.toBuffer(),'utf-8'); 
-            console.log("getEnd");
             callback(decodeHtml);
         });
     });
