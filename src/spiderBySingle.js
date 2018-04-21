@@ -5,6 +5,7 @@ var url = require("url");
 var splitComomsUrl =require('./splitComomsUrl');
 var saveData = require('./saveData');
 var collectSearchData = require('./collectSearchData');
+var collectContentAndComs = require('./collectContentAndComs');
 // 新闻名称
 var newName = '杭州保姆纵火案';
 // 收索范围：all新闻全文 title新闻标题
@@ -15,8 +16,8 @@ var c = 'news';
 var sort = 'time';
 // 当前页
 var page = 1;
-// 当前页最大数
-var pageNumMax = 3;
+// 页码最大数
+var pageNumMax = 32;
 var url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort='+sort+'&ie=utf-8'+'&page='+page;
 //http://search.sina.com.cn/?q=杭州保姆纵火案&range=all&c=news&sort=time&ie=utf-8
 //http://search.sina.com.cn/?q=杭州保姆纵火案&range=all&c=news&sort=time&ie=utf-8&page=2&pf=2131294380&ps=2134309112&dpc=1
@@ -54,68 +55,50 @@ var saveSearchNews = new Promise(function(resolve,reject){
     // collectNewsUrl(1,resolve,reject);
     resolve();
 });
-// 收集评论链接
-function collectCommentsUrl(page,resolve,reject){
-    var obj = [];
-    var tempArr =JSON.parse(readFile('/dataBase/inputSearchPage/inputSearchData'+page+'.js'));
-    console.log('开始保存第'+page+'页');
-    for(var i=0;i<tempArr.length;i++){
-        console.log(i);
-        httpGet(tempArr[i].newUrl,function(data){
-            var url = splitComomsUrl(data);
-            obj.push({"commentsUrl":url});
-            if(obj.length == tempArr.length){
-                saveData('/dataBase/commentsUrl/commentsUrl'+page+'.js',obj,function(){
-                    console.log('保存第'+page+'页评论链接完成');
-                    if(page<pageNumMax){
-                        page++;
-                        collectCommentsUrl(page,resolve,reject);    
-                    }else{
-                        // resolve();
-                    }  
-                });
-            }
-        });
+
+var newUrlId = 0;
+var isNewPage = true;
+var pageId = 1;
+var tempArr = [];
+// 收集每个新闻的内容和评论
+function collectNewsAndComments(){
+    console.log('开始保存第'+pageId+'页第'+newUrlId+'条新闻内容');
+    var newId = 0;
+    if(isNewPage){
+        tempArr = JSON.parse(readFile('/dataBase/inputSearchPage/inputSearchData'+pageId+'.js'));
+        isNewPage = false;
     }
-}
-// 请求新闻详情页 拼接处评论url
-var saveNewsDetial = saveSearchNews.then(function(){
-    console.log('开始请求新闻详情页,拼接处评论url');
-    page = 1;
-    var tempPro = new Promise(function(resolve,reject){
-        collectCommentsUrl(page,resolve,reject);         
-        // resolve();
-    })
-    return tempPro;
-})
-// 收集评论内容
-function collectCommentsContent(page,resolve,reject){
-    var obj = [];
-    var tempArr =JSON.parse(readFile('/dataBase/commentsUrl/commentsUrl'+page+'.js'));
-    for(var i=0;i<tempArr.length;i++){
-        httpGet(tempArr[i].commentsUrl,function(data){
+    // 请求新闻详情页
+    httpGet(tempArr[newUrlId].newUrl,function(data){
+        var tempData = collectContentAndComs(data);
+        tempData.newsUrl = tempArr[newUrlId].newUrl;
+        // 请求评论
+        httpGet(tempData.commentsUrl,function(data){
             eval(data);
-            obj.push({"commentsData":data});
-            if(obj.length == tempArr.length){
-                saveData('/dataBase/commentsData/commentsData'+page+'.js',obj,function(){
-                    console.log('保存第'+page+'页评论内容完成');
-                    if(page<pageNumMax){
-                        page++;
-                        collectCommentsContent(page,resolve,reject);   
+            tempData.commentData = data;
+            saveData('/dataBase/newsDetialAndComments/detAndCom'+pageId+'-'+newUrlId+'.js',tempData,function(){
+                newUrlId++;
+                // 新的一页
+                if(newUrlId>=tempArr.length){
+                    // 翻页
+                    pageId ++;
+                    if(pageId <= pageNumMax){
+                        console.log('newpage!!!');
+                        newUrlId = 0;
+                        isNewPage = true;
                     }else{
-                        resolve();
-                    } 
-                });
-            }
+                        console.log('收集完所有的新闻内容和评论');
+                        console.log('^_^! 收集完啦 早点休息');
+                        return false;
+                    }
+                    
+                }
+                collectNewsAndComments();
+            });
         });
-    }
+    });
 }
-saveNewsDetial.then(function(){
-    console.log('开始保存评论');
-    page = 1;
-    console.log(pageNumMax);
-    var tempPro = new Promise(function(resolve,reject){
-        collectCommentsContent(page,resolve,reject);
-    })
-    return tempPro;
-});
+saveSearchNews.then(function(){
+    collectNewsAndComments();
+    
+})
