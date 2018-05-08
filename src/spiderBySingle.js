@@ -7,7 +7,8 @@ var saveData = require('./saveData');
 var collectSearchData = require('./collectSearchData');
 var collectContentAndComs = require('./collectContentAndComs');
 // 新闻名称
-var newName = '杭州保姆纵火案';
+// var newName = '杭州保姆纵火案';
+var newName = '南海问题';
 // 收索范围：all新闻全文 title新闻标题
 var range = 'all';
 // 收索类型
@@ -17,14 +18,17 @@ var sort = 'time';
 // 当前页
 var page = 1;
 // 页码最大数
-var pageNumMax = 32;
+var pageNumMax = 1;
 var url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort='+sort+'&ie=utf-8'+'&page='+page;
 //http://search.sina.com.cn/?q=杭州保姆纵火案&range=all&c=news&sort=time&ie=utf-8
 //http://search.sina.com.cn/?q=杭州保姆纵火案&range=all&c=news&sort=time&ie=utf-8&page=2&pf=2131294380&ps=2134309112&dpc=1
 console.log(url);
 function collectNewsUrl(page,resolve,reject){
     url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort='+sort+'&ie=utf-8'+'&page='+page;
+    //http://search.sina.com.cn/?q=南海问题&range=all&c=news&sort=time
+    //http://search.sina.com.cn/?q=南海问题&range=all&c=news&sort=time&ie=utf-8&page=1
     puppeteerGet(url,'/dataBase/inputSearchPage/inputSearch.html',function(data){
+        console.log('开始收集第'+page);
         saveData('/dataBase/inputSearchPage/inputSearch.html',data,function(){
             // 整理收索框的数据
             var tempUrlArr = collectSearchData('/dataBase/inputSearchPage/inputSearch.html');
@@ -52,8 +56,8 @@ function collectNewsUrl(page,resolve,reject){
 }
 // 请求收索框的页面的数据
 var saveSearchNews = new Promise(function(resolve,reject){
-    // collectNewsUrl(1,resolve,reject);
-    resolve();
+    collectNewsUrl(1,resolve,reject);
+    // resolve();
 });
 
 var newUrlId = 0;
