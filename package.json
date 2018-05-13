@@ -13,7 +13,11 @@
     "axios": "^0.18.0",
     "bufferhelper": "^0.2.1",
     "cheerio": "^1.0.0-rc.2",
+    "csv-stringify": "^3.0.0",
+    "fast-csv": "^2.4.1",
     "iconv-lite": "^0.4.21",
+    "mongodb": "^3.0.8",
+    "mongoose": "^5.0.17",
     "puppeteer": "^1.3.0",
     "request": "^2.85.0"
   }

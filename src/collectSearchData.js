@@ -1,7 +1,7 @@
 var cheerio = require('cheerio');
 var saveData = require('./saveData');
 var readFile = require('./readFile');
-function collectSearchData(readFileName){
+function collectSearchData(readFileName,totleNewsNum){
     var searchRes = readFile(readFileName);
     // 记录最大的页数
     var maxPage = 0;
@@ -15,6 +15,8 @@ function collectSearchData(readFileName){
         tempObj.newUrl = $(newList[i]).find('h2').children('a').attr('href');
         tempObj.newName = $(newList[i]).find('h2').children('a').text();
         tempObj.content = $(newList[i]).find('.content').text();
+        tempObj.fgray_time = $(newList[i]).find('h2').children('.fgray_time').text();
+        // tempObj.newsSign = newsSign;
         tempArr.push(tempObj);
     }
     var pageNoArr = $('#_function_code_page').children('a');

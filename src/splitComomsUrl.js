@@ -49,7 +49,13 @@ function splitComomsUrl(data){
     }
     // console.log(tempObj);
     var commentsArrUrl = 'http://comment5.news.sina.com.cn/page/info?version=1&format=js&channel='+tempObj['comment_channel']+'&newsid='+tempObj['comment_id']+'&group=&compress=0&ie=gbk&oe=gbk&page=1&page_size=20';
-    return commentsArrUrl;
+    var resultObj = {
+        commentsArrUrl:commentsArrUrl,
+        channel:tempObj['comment_channel'],
+        newsid:tempObj['comment_id'],
+
+    }
+    return resultObj;
 }
 
 module.exports = splitComomsUrl;

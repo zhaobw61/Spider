@@ -1,7 +1,6 @@
 var puppeteer = require('puppeteer');
-var saveData = require('./saveData');
 //用于请求html
-function puppeteerGet(url,fileName,callBack){
+function puppeteerGet(url,callBack){
     (async()=>{
         var browser = await puppeteer.launch({});
         var page = await browser.newPage();
