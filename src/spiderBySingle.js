@@ -9,7 +9,7 @@ var newsSign = 0;
 // 连接数据库
 var dataBase = require('../mongodb/index');
 // 新闻名称
-var newName = '杭州保姆纵火案';
+var newName = '李文星之死';
 // var newName = '南海问题';
 // 收索范围：all新闻全文 title新闻标题
 var range = 'all';
@@ -26,8 +26,11 @@ var url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort
 //http://search.sina.com.cn/?q=杭州保姆纵火案&range=all&c=news&sort=time&ie=utf-8&page=2&pf=2131294380&ps=2134309112&dpc=1
 console.log(url);
 var saveSearchNews;
-
 var totleNewsNum = 0
+// 新闻内容
+var dbObj = new dataBase('liOfContent');
+// 评论集合
+var dbObjOfcomment = new dataBase('liAllComment');
 // 请求收索框的页面的数据
 function collectNewsUrl(page,resolve,reject){
     url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort='+sort+'&ie=utf-8'+'&page='+page;
@@ -179,10 +182,6 @@ function getComment(urlData,callBack){
         })
     })
 }
-// 连接数据库
-var dbObj = new dataBase('news');
-// 评论集合
-var dbObjOfcomment = new dataBase('allComments');
 dbObjOfcomment.connectDB(function(){
     dbObj.connectDB(function(){
         saveSearchNews = new Promise(function(resolve,reject){

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="./echarts.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="comments" style="width: 1000px;height:400px;"></div>
+</body>
+<script>
+    var myChart = echarts.init(document.getElementById('comments'));
+    $.get('./echartData/baomuhot.json',function(baomu){
+        $.get('./echartData/lihot.json',function(li){
+            $.get('./echartData/zhanghot.json',function(zhang){
+                option = {
+                    title: {
+                        text: '热度模型计算结果曲线图'
+                    },
+                    tooltip: {
+                        trigger: 'axis'
+                    },
+                    legend: {
+                        data:['杭州保姆','章莹颖失踪案','李文星之死']
+                    },
+                    grid: {
+                        left: '3%',
+                        right: '4%',
+                        bottom: '3%',
+                        containLabel: true
+                    },
+                    toolbox: {
+                        feature: {
+                            saveAsImage: {}
+                        }
+                    },
+                    xAxis: {
+                        type: 'category',
+                        boundaryGap: false,
+                        data: zhang.time
+                    },
+                    yAxis: {
+                        type: 'value'
+                    },
+                    series: [
+                        {
+                            name:'杭州保姆',
+                            type:'line',
+                            stack: '总量',
+                            data:baomu.date
+                        },
+                        {
+                            name:'章莹颖失踪案',
+                            type:'line',
+                            stack: '总量',
+                            data:zhang.date
+                        },
+                        {
+                            name:'李文星之死',
+                            type:'line',
+                            stack: '总量',
+                            data:li.date
+                        }
+                    ]
+                };
+                
+                // 使用刚指定的配置项和数据显示图表。
+                myChart.setOption(option);
+            })
+        })
+        
+       
+    })
+
+</script>
+</html>

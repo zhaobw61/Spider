@@ -16,8 +16,8 @@ var fileTitle = ['newsList','total','replay','time','newsTiem'];
 // hot_list 最热评论
 dbObj.connectDB(function(){
     allComments.connectDB(function(){
-        // broncsvFile();
-        testallComments();
+        broncsvFile();
+        // testallComments();
         // testdbObj();
     });    
 });
@@ -133,10 +133,5 @@ function saveJSonToCSV(data,callback){
         });
     });
 }
-
-var path = require('path');
 var fs = require('fs');
-var dirPath = path.resolve();
-function appendFileSync(fileName,content){
-    fs.appendFileSync(dirPath+fileName,content)
-}
+

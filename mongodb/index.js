@@ -41,7 +41,6 @@ dataBase.prototype.insertOne = function(data,callBack){
     var _this = this;
     dbase.collection(this.tableName).insertOne(data, function(err, res) {
         if (err) throw err;
-        console.log("文档插入成功");
         if(callBack) callBack();
     });
 }
