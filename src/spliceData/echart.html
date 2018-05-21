@@ -13,19 +13,20 @@
 </body>
 <script>
     var myChart = echarts.init(document.getElementById('comments'));
-    $.get('./echartData/hot.json',function(data){
-        console.log(data);
+    $.get('./echartData/baomujoinLocalNum.json',function(data){
         option = {
             title: {
-                text: '热度曲线图'
+                text: '覆盖区域数量曲线图'
             },
             tooltip: {
                 trigger: 'axis'
             },
             xAxis: {
+                name:'时间',
                 data: data.time
             },
             yAxis: {
+                name:"数量",
                 splitLine: {
                     show: false
                 }
@@ -41,58 +42,16 @@
                 }
             },
             dataZoom: [{
-                startValue: '2014-06-01'
+                startValue: '2017-09-13',
+                endValue:'2018-03-14'
             }, {
                 type: 'inside'
             }],
-            visualMap: {
-                top: 10,
-                right: 10,
-                pieces: [{
-                    gt: 0,
-                    lte: 50,
-                    color: '#096'
-                }, {
-                    gt: 50,
-                    lte: 100,
-                    color: '#ffde33'
-                }, {
-                    gt: 100,
-                    lte: 150,
-                    color: '#ff9933'
-                }, {
-                    gt: 150,
-                    lte: 200,
-                    color: '#cc0033'
-                }, {
-                    gt: 200,
-                    lte: 300,
-                    color: '#660099'
-                }, {
-                    gt: 300,
-                    color: '#7e0023'
-                }],
-                outOfRange: {
-                    color: '#999'
-                }
-            },
             series: {
-                name: '评论数',
                 type: 'line',
                 data: data.date,
                 markLine: {
-                    silent: true,
-                    data: [{
-                        yAxis: 500
-                    }, {
-                        yAxis: 1000
-                    }, {
-                        yAxis: 1500
-                    }, {
-                        yAxis: 2000
-                    }, {
-                        yAxis: 2500
-                    }]
+                    silent: false
                 }
             }
         };

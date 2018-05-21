@@ -7,15 +7,69 @@
     <title>Document</title>
     <script src="./echarts.js"></script>
     <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <style>
+        .input{
+            float: left;
+        }
+        .input input{
+            width: 100px;
+        }
+    </style>
 </head>
 <body>
     <div id="comments" style="width: 1000px;height:400px;"></div>
+    <div class="input">
+        <span>评论数</span>
+        <input type="text" value="0.11671041">
+    </div>
+    <div class="input">
+        <span>点赞数</span>
+        <input type="text" value="0.1481959">
+    </div>
+    <div class="input">
+        <span>新闻报道数</span>
+        <input type="text" value="0.0275217">
+    </div>
+    <div class="input">
+        <span>媒体数</span>
+        <input type="text" value="0.2490783">
+    </div>
+    <div class="input">
+        <span>事发地回应力度</span>
+        <input type="text" value="0.10707905">
+    </div>
+    <div class="input">
+        <span>覆盖区域数量</span>
+        <input type="text" value="0.02142095">
+    </div>
 </body>
 <script>
     var myChart = echarts.init(document.getElementById('comments'));
-    $.get('./echartData/baomuhot.json',function(baomu){
+    $.get('./echartData/baomuagree.json',function(baomu){
         $.get('./echartData/lihot.json',function(li){
             $.get('./echartData/zhanghot.json',function(zhang){
+                var tempArr = [];
+                for(var i=0;i<baomu.date.length;i++){
+                    var hot = baomu.date[i];
+                    if(hot>10){
+                        while(hot>10){
+                            hot = parseInt(hot/10);
+                        }
+                    }else{
+                        hot = parseInt(hot);
+                    }                  
+                    var radom = parseInt(Math.random()*3+1);
+                    var sign = parseInt(Math.random()*10+1);
+                    if(sign<5){
+                        tempArr.push(hot + radom);
+                    }else{
+                        var tempVal = hot - radom;
+                        if(tempVal<0){
+                            tempVal = parseInt(Math.random()*4+1);
+                        }
+                        tempArr.push(tempVal);
+                    }
+                }
                 option = {
                     title: {
                         text: '热度模型计算结果曲线图'
@@ -24,46 +78,48 @@
                         trigger: 'axis'
                     },
                     legend: {
-                        data:['杭州保姆','章莹颖失踪案','李文星之死']
+                        data:['']
                     },
                     grid: {
-                        left: '3%',
+                        left: '2%',
                         right: '4%',
                         bottom: '3%',
                         containLabel: true
                     },
-                    toolbox: {
-                        feature: {
-                            saveAsImage: {}
-                        }
-                    },
+                    // toolbox: {
+                    //     feature: {
+                    //         saveAsImage: {}
+                    //     }
+                    // },
                     xAxis: {
+                        name:'时间',
                         type: 'category',
                         boundaryGap: false,
-                        data: zhang.time
+                        data: baomu.time
                     },
                     yAxis: {
+                        name:'热度',
                         type: 'value'
                     },
                     series: [
                         {
-                            name:'杭州保姆',
+                            name:'',
                             type:'line',
                             stack: '总量',
                             data:baomu.date
                         },
-                        {
-                            name:'章莹颖失踪案',
-                            type:'line',
-                            stack: '总量',
-                            data:zhang.date
-                        },
-                        {
-                            name:'李文星之死',
-                            type:'line',
-                            stack: '总量',
-                            data:li.date
-                        }
+                        // {
+                        //     name:'章莹颖失踪案',
+                        //     type:'line',
+                        //     stack: '总量',
+                        //     data:zhang.date
+                        // },
+                        // {
+                        //     name:'李文星之死',
+                        //     type:'line',
+                        //     stack: '总量',
+                        //     data:li.date
+                        // },
                     ]
                 };
                 
@@ -71,9 +127,69 @@
                 myChart.setOption(option);
             })
         })
-        
-       
     })
 
 </script>
+<!-- <script>
+    var myChart = echarts.init(document.getElementById('comments'));
+    $.get('./echartData/baomuPaiming.json',function(baomu){
+        $.get('./echartData/liPaiming.json',function(li){
+            $.get('./echartData/zhangPaiming.json',function(zhang){
+                option = {
+                    title : {
+                        text: '排名曲线图'
+                    },
+                    tooltip : {
+                        trigger: 'axis'
+                    },
+                    legend: {
+                        data:['杭州保姆','章莹颖失踪案','李文星之死']
+                    },
+                    toolbox: {
+                        show : true,
+                        feature : {
+                            dataView : {show: true, readOnly: false},
+                            magicType : {show: true, type: ['line', 'bar']},
+                            restore : {show: true},
+                            saveAsImage : {show: true}
+                        }
+                    },
+                    calculable : true,
+                    xAxis : [
+                        {
+                            type : 'category',
+                            data : zhang.time
+                        }
+                    ],
+                    yAxis : [
+                        {
+                            type : 'value'
+                        }
+                    ],
+                    series : [
+                        {
+                            name:'杭州保姆',
+                            type:'bar',
+                            data:baomu.date
+                        },
+                        {
+                            name:'章莹颖失踪案',
+                            type:'bar',
+                            data:zhang.date
+                        }
+                        ,
+                        {
+                            name:'李文星之死',
+                            type:'bar',
+                            data:li.date
+                        }
+                    ]
+                };
+                
+                 // 使用刚指定的配置项和数据显示图表。
+                myChart.setOption(option);
+            })
+        })
+    })
+</script> -->
 </html>

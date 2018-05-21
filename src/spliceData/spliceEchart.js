@@ -14,7 +14,7 @@ var newArr = [];
 function index(){
     dayData.find('array',{},function(data){
         arr = data;
-        arr.sort(sortTime)
+        arr.sort(sortTime);
         console.log(arr);
         var obj = {};
         obj.time = [];

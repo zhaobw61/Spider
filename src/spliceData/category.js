@@ -9,15 +9,15 @@ var saveData = require('../saveData');
 
 baomu.connectDB(function(){
     // baomuIndex('comment');
-    baomuIndex('hot');
+    baomuIndex('joinLocalNum');
 })
 zhang.connectDB(function(){
     // zhangIndex('comment');
-    zhangIndex('hot');
+    zhangIndex('comment');
 })
 li.connectDB(function(){
     // LiIndex('comment');
-    LiIndex('hot');
+    LiIndex('comment');
 })
 var time;
 var arr;
@@ -39,10 +39,10 @@ function LiIndex(type){
             var mediaNum = arr[i].mediaNum ? arr[i].mediaNum : 0;
             var newsLocationPerson = arr[i].newsLocationPerson ? arr[i].newsLocationPerson : 0;
             var joinLocalNum = arr[i].joinLocalNum ? arr[i].joinLocalNum : 0;
-            var hot = H=0.1622277*comment+0.0540702*agree+0.10832448*newsNum+0.43915506*mediaNum+0.08766564*newsLocationPerson+0.01753134*joinLocalNum
+            var hot = 0.11671041*comment+0.1481959*agree+0.0275217*newsNum+0.2490783*mediaNum+0.10707905*newsLocationPerson+0.02142095*joinLocalNum;
             // if(comment>1000)
-            // comment = comment/100;
-            obj.date.push(hot);
+            // comment = comment/1000;
+            obj.date.push(agree);
         }
         saveData('/echartData/li'+type+'.json',obj,function(){
             console.log('ok');
@@ -66,9 +66,9 @@ function zhangIndex(type){
             var mediaNum = arr[i].mediaNum ? arr[i].mediaNum : 0;
             var newsLocationPerson = arr[i].newsLocationPerson ? arr[i].newsLocationPerson : 0;
             var joinLocalNum = arr[i].joinLocalNum ? arr[i].joinLocalNum : 0;
-            var hot = H=0.1622277*comment+0.0540702*agree+0.10832448*newsNum+0.43915506*mediaNum+0.08766564*newsLocationPerson+0.01753134*joinLocalNum
+            var hot = 0.11671041*comment+0.1481959*agree+0.0275217*newsNum+0.2490783*mediaNum+0.10707905*newsLocationPerson+0.02142095*joinLocalNum;
             // if(comment>1000)
-            // comment = comment/100;
+            // comment = comment/1000;
             obj.date.push(hot);
         }
         saveData('/echartData/zhang'+type+'.json',obj,function(){
@@ -92,10 +92,10 @@ function baomuIndex(type){
             var mediaNum = arr[i].mediaNum ? arr[i].mediaNum : 0;
             var newsLocationPerson = arr[i].newsLocationPerson ? arr[i].newsLocationPerson : 0;
             var joinLocalNum = arr[i].joinLocalNum ? arr[i].joinLocalNum : 0;
-            var hot = H=0.1622277*comment+0.0540702*agree+0.10832448*newsNum+0.43915506*mediaNum+0.08766564*newsLocationPerson+0.01753134*joinLocalNum
+            var hot = 0.11671041*comment+0.1481959*agree+0.0275217*newsNum+0.2490783*mediaNum+0.10707905*newsLocationPerson+0.02142095*joinLocalNum;
             // if(comment>1000)
-            // comment = comment/100;
-            obj.date.push(hot);
+            // comment = comment/1000;
+            obj.date.push(joinLocalNum);
         }
         saveData('/echartData/baomu'+type+'.json',obj,function(){
             console.log('ok');
