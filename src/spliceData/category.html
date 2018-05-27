@@ -7,18 +7,18 @@
     <title>Document</title>
     <script src="./echarts.js"></script>
     <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-    <style>
+    <!-- <style>
         .input{
             float: left;
         }
         .input input{
             width: 100px;
         }
-    </style>
+    </style> -->
 </head>
 <body>
     <div id="comments" style="width: 1000px;height:400px;"></div>
-    <div class="input">
+    <!-- <div class="input">
         <span>评论数</span>
         <input type="text" value="0.11671041">
     </div>
@@ -41,100 +41,100 @@
     <div class="input">
         <span>覆盖区域数量</span>
         <input type="text" value="0.02142095">
-    </div>
+    </div> -->
 </body>
 <script>
-    var myChart = echarts.init(document.getElementById('comments'));
-    $.get('./echartData/baomuagree.json',function(baomu){
-        $.get('./echartData/lihot.json',function(li){
-            $.get('./echartData/zhanghot.json',function(zhang){
-                var tempArr = [];
-                for(var i=0;i<baomu.date.length;i++){
-                    var hot = baomu.date[i];
-                    if(hot>10){
-                        while(hot>10){
-                            hot = parseInt(hot/10);
-                        }
-                    }else{
-                        hot = parseInt(hot);
-                    }                  
-                    var radom = parseInt(Math.random()*3+1);
-                    var sign = parseInt(Math.random()*10+1);
-                    if(sign<5){
-                        tempArr.push(hot + radom);
-                    }else{
-                        var tempVal = hot - radom;
-                        if(tempVal<0){
-                            tempVal = parseInt(Math.random()*4+1);
-                        }
-                        tempArr.push(tempVal);
-                    }
-                }
-                option = {
-                    title: {
-                        text: '热度模型计算结果曲线图'
-                    },
-                    tooltip: {
-                        trigger: 'axis'
-                    },
-                    legend: {
-                        data:['']
-                    },
-                    grid: {
-                        left: '2%',
-                        right: '4%',
-                        bottom: '3%',
-                        containLabel: true
-                    },
-                    // toolbox: {
-                    //     feature: {
-                    //         saveAsImage: {}
-                    //     }
-                    // },
-                    xAxis: {
-                        name:'时间',
-                        type: 'category',
-                        boundaryGap: false,
-                        data: baomu.time
-                    },
-                    yAxis: {
-                        name:'热度',
-                        type: 'value'
-                    },
-                    series: [
-                        {
-                            name:'',
-                            type:'line',
-                            stack: '总量',
-                            data:baomu.date
-                        },
-                        // {
-                        //     name:'章莹颖失踪案',
-                        //     type:'line',
-                        //     stack: '总量',
-                        //     data:zhang.date
-                        // },
-                        // {
-                        //     name:'李文星之死',
-                        //     type:'line',
-                        //     stack: '总量',
-                        //     data:li.date
-                        // },
-                    ]
-                };
+    // var myChart = echarts.init(document.getElementById('comments'));
+    // $.get('./echartData/baomuagree.json',function(baomu){
+    //     $.get('./echartData/lihot.json',function(li){
+    //         $.get('./echartData/zhanghot.json',function(zhang){
+    //             var tempArr = [];
+    //             for(var i=0;i<baomu.date.length;i++){
+    //                 var hot = baomu.date[i];
+    //                 if(hot>10){
+    //                     while(hot>10){
+    //                         hot = parseInt(hot/10);
+    //                     }
+    //                 }else{
+    //                     hot = parseInt(hot);
+    //                 }                  
+    //                 var radom = parseInt(Math.random()*3+1);
+    //                 var sign = parseInt(Math.random()*10+1);
+    //                 if(sign<5){
+    //                     tempArr.push(hot + radom);
+    //                 }else{
+    //                     var tempVal = hot - radom;
+    //                     if(tempVal<0){
+    //                         tempVal = parseInt(Math.random()*4+1);
+    //                     }
+    //                     tempArr.push(tempVal);
+    //                 }
+    //             }
+    //             option = {
+    //                 title: {
+    //                     text: '热度模型计算结果曲线图'
+    //                 },
+    //                 tooltip: {
+    //                     trigger: 'axis'
+    //                 },
+    //                 legend: {
+    //                     data:['']
+    //                 },
+    //                 grid: {
+    //                     left: '2%',
+    //                     right: '4%',
+    //                     bottom: '3%',
+    //                     containLabel: true
+    //                 },
+    //                 // toolbox: {
+    //                 //     feature: {
+    //                 //         saveAsImage: {}
+    //                 //     }
+    //                 // },
+    //                 xAxis: {
+    //                     name:'时间',
+    //                     type: 'category',
+    //                     boundaryGap: false,
+    //                     data: baomu.time
+    //                 },
+    //                 yAxis: {
+    //                     name:'热度',
+    //                     type: 'value'
+    //                 },
+    //                 series: [
+    //                     {
+    //                         name:'',
+    //                         type:'line',
+    //                         stack: '总量',
+    //                         data:baomu.date
+    //                     },
+    //                     // {
+    //                     //     name:'章莹颖失踪案',
+    //                     //     type:'line',
+    //                     //     stack: '总量',
+    //                     //     data:zhang.date
+    //                     // },
+    //                     // {
+    //                     //     name:'李文星之死',
+    //                     //     type:'line',
+    //                     //     stack: '总量',
+    //                     //     data:li.date
+    //                     // },
+    //                 ]
+    //             };
                 
-                // 使用刚指定的配置项和数据显示图表。
-                myChart.setOption(option);
-            })
-        })
-    })
+    //             // 使用刚指定的配置项和数据显示图表。
+    //             myChart.setOption(option);
+    //         })
+    //     })
+    // })
 
 </script>
-<!-- <script>
+<script>
     var myChart = echarts.init(document.getElementById('comments'));
-    $.get('./echartData/baomuPaiming.json',function(baomu){
-        $.get('./echartData/liPaiming.json',function(li){
-            $.get('./echartData/zhangPaiming.json',function(zhang){
+    $.get('./echartData/baomuactualHot.json',function(baomu){
+        $.get('./echartData/liactualHot.json',function(li){
+            $.get('./echartData/zhangactualHot.json',function(zhang){
                 option = {
                     title : {
                         text: '排名曲线图'
@@ -154,42 +154,57 @@
                             saveAsImage : {show: true}
                         }
                     },
-                    calculable : true,
+                    // calculable : true,
                     xAxis : [
                         {
+                            name : "时间",
                             type : 'category',
                             data : zhang.time
                         }
                     ],
                     yAxis : [
                         {
+                            name : '排名',
                             type : 'value'
                         }
                     ],
                     series : [
                         {
                             name:'杭州保姆',
-                            type:'bar',
-                            data:baomu.date
+                            type:'line',
+                            data:baomu.date,
+                            lineStyle: {
+                                normal: {
+                                    type: 'dashed'
+                                }
+                            }
                         },
                         {
                             name:'章莹颖失踪案',
-                            type:'bar',
-                            data:zhang.date
-                        }
-                        ,
+                            type:'line',
+                            data:zhang.date,
+                            lineStyle: {
+                                normal: {
+                                    type: 'solid'
+                                }
+                            }
+                        },
                         {
                             name:'李文星之死',
-                            type:'bar',
-                            data:li.date
+                            type:'line',
+                            data:li.date,
+                            lineStyle: {
+                                normal: {
+                                    type: 'dotted'
+                                }
+                            }
                         }
                     ]
                 };
-                
-                 // 使用刚指定的配置项和数据显示图表。
+                // 使用刚指定的配置项和数据显示图表。
                 myChart.setOption(option);
             })
         })
     })
-</script> -->
+</script>
 </html>

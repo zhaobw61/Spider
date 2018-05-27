@@ -9,8 +9,7 @@ var newsSign = 0;
 // 连接数据库
 var dataBase = require('../mongodb/index');
 // 新闻名称
-var newName = '李文星之死';
-// var newName = '南海问题';
+var newName = '特朗普上台';
 // 收索范围：all新闻全文 title新闻标题
 var range = 'all';
 // 收索类型
@@ -28,9 +27,9 @@ console.log(url);
 var saveSearchNews;
 var totleNewsNum = 0
 // 新闻内容
-var dbObj = new dataBase('liOfContent');
+var dbObj = new dataBase('telangpuOfContent');
 // 评论集合
-var dbObjOfcomment = new dataBase('liAllComment');
+var dbObjOfcomment = new dataBase('telangpuAllComment');
 // 请求收索框的页面的数据
 function collectNewsUrl(page,resolve,reject){
     url = 'http://search.sina.com.cn/?q='+newName+'&range='+range+'&c='+c+'&sort='+sort+'&ie=utf-8'+'&page='+page;

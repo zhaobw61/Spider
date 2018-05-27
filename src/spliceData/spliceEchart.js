@@ -28,10 +28,12 @@ function index(){
             var newsLocationPerson = arr[i].newsLocationPerson ? arr[i].newsLocationPerson : 0;
             var joinLocalNum = arr[i].joinLocalNum ? arr[i].joinLocalNum : 0;
             var hot = H=0.1622277*comment+0.0540702*agree+0.10832448*newsNum+0.97521468*mediaNum+0.08766564*newsLocationPerson+0.01753134*joinLocalNum
-            obj.date.push(hot);
+            var actualHot = agree + comment;
+            obj.date.push(actualHot);
         }
-        saveData('/echartData/hot.json',obj,function(){
+        saveData('/echartData/baomuactualHot.json',obj,function(){
             console.log('ok');
+            dayData.closeDB();
         })
     })
 }

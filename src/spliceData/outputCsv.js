@@ -1,7 +1,7 @@
 // 连接数据库
 var dataBase = require('../../mongodb/index');
 // 每天的数据
-var dayData = new dataBase('baomuDayData');
+var dayData = new dataBase('liDayData');
 // 保存文件
 var saveData = require('../saveData');
 // 保存文件
@@ -66,7 +66,7 @@ function broncsvFile(){
 }
 function saveJSonToCSV(data,callback){
     stringify(data, function(err, output,callback) {
-        fs.appendFile('everydata.csv', output, 'utf8',function(callback){
+        fs.appendFile('everydataOfLi.csv', output, 'utf8',function(callback){
             console.log('save-csv-OK!!');
             dayData.closeDB();
         });
